@@ -52,15 +52,6 @@ python plot_results.py
 
 ---
 
-## Project structure
-├── experiments/       # Individual experiment configs
-├── results/           # Saved training logs and plots
-├── train.py           # Main training script
-├── plot_results.py    # Visualization
-└── report.pdf         # Full seminar paper
-
----
-
 ## Built with
 
 Python · Stable-Baselines3 · Gymnasium · Matplotlib · NumPy
